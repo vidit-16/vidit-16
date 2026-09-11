@@ -31,19 +31,6 @@ either way, i'm usually building something.
 
 ## Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="40" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" height="40" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
-  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" />
-</p>
-
-Python · SQL · Pandas · NumPy · Hugging Face Transformers · FAISS · LLMs · Computer Vision · Streamlit · pytest
+Python · SQL · Pandas · NumPy · PyTorch · Scikit-learn · Hugging Face Transformers · FAISS · LLMs · Computer Vision · FastAPI · Streamlit · PostgreSQL · SQLite · Docker · Git · GitHub Actions · pytest
 
 [LinkedIn](https://www.linkedin.com/in/vidit-choudhary-514a98227/) · [Email](mailto:choudharyvidit5@gmail.com)
