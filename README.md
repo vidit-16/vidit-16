@@ -1,68 +1,36 @@
-# Vidit Choudhary
+## About
 
-Robotics & Artificial Intelligence engineering student at Bangalore Institute of Technology, Bengaluru.
+i've built systems that make documents searchable and answerable, engineer guardrails around llm-driven financial decisions, make algorithms compete using information theory, and turn everyday food descriptions into structured nutrition data.
 
-I work across machine learning, computer vision, data analytics, backend engineering, and applied AI. I enjoy building systems end to end, testing them against real failure cases, and understanding the reasoning behind the results rather than stopping at a working demo.
+somewhere along the way, i've worked across ai, machine learning, genai, computer vision and data.
 
-Currently focused on building reliable AI and data systems, with particular interest in applied machine learning, analytics, decision-support systems, and software engineering.
+i like interesting problems, going down rabbit holes, and figuring out how to turn an idea into something that actually works.
 
-## Technical Skills
+sometimes that means building the obvious solution.
 
-**Programming & Data:** Python, SQL, Pandas, NumPy
+sometimes it means wondering if there's a completely different way to do it.
 
-**Machine Learning & AI:** PyTorch, Scikit-learn, Hugging Face Transformers, FAISS, RAG, LLMs, Computer Vision
-
-**Backend & Applications:** FastAPI, Streamlit, REST APIs, PostgreSQL, SQLite, MySQL
-
-**Engineering:** Docker, Git, GitHub Actions, pytest, Linux, Jupyter
+either way, i'm usually building something.
 
 ## Projects
 
 ### RootSignal
-[Repository](https://github.com/vidit-16/RootSignal)
-
-Root-cause analytics for sales and supply operations. The system validates and consolidates operational data, calculates business KPIs, evaluates trends and forecasts, decomposes metric movements across business dimensions, estimates impact, and produces evidence-backed investigation signals.
-
-Python, Pandas, NumPy, SQL, Streamlit, Plotly, pytest
+[Root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal). traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals.
 
 ### BaseDrift
-[Repository](https://github.com/vidit-16/BaseDrift)
-
-A pre-authorization decision layer for outbound payments. Combines deterministic policy rules with an LLM semantic layer to evaluate authorization provenance, with fail-safe controls, auditability, replay protection, and adversarial testing.
-
-Python, FastAPI, LLMs, Webhooks, MCP, pytest
+[A pre-authorization decision layer for outbound payments](https://github.com/vidit-16/BaseDrift). combines deterministic policy rules with an LLM semantic layer, with a focus on authorization provenance, fail-safe handling, auditability, and adversarial testing.
 
 ### Wordle Solver
-[Repository](https://github.com/vidit-16/WordleSolver) · [Live Demo](https://wordle--solver.streamlit.app/)
-
-A comparative solver that evaluates constraint-based reasoning against information-theoretic optimization, with Wordle-accurate feedback handling, candidate elimination, and entropy-based guess selection.
-
-Python, Pandas, Streamlit, Information Theory
+[Constraint vs entropy optimization](https://github.com/vidit-16/WordleSolver), built around Wordle-accurate feedback handling, candidate reduction, and information-gain scoring.
 
 ### Food Vision
-[Repository](https://github.com/vidit-16/foodVision)
-
-A computer vision inference API built around a ResNet-50 classifier, exposed through FastAPI and packaged with Docker for reproducible deployment.
-
-Python, PyTorch, ResNet-50, FastAPI, Docker
+[A ResNet-50 image classification API](https://github.com/vidit-16/foodVision), exposed through FastAPI and packaged with Docker for reproducible deployment.
 
 ### DesiMacros
-[Repository](https://github.com/vidit-16/DesiMacros)
+[A conversational nutrition tracker for Indian diets](https://github.com/vidit-16/DesiMacros), turning free-form meal descriptions into structured food entries and combining nutrition lookup with rule-based insights.
 
-A conversational nutrition tracker for Indian diets that converts free-form meal descriptions into structured food entries and combines nutrition lookup, personalized targets, and rule-based insights.
+## Tools
 
-Python, FastAPI, Streamlit, SQLAlchemy, PostgreSQL, LLMs
-
-## Areas of Interest
-
-Machine Learning
-Computer Vision
-Data Analytics
-Applied AI
-Backend Engineering
-Data Quality and Decision Support
-Testing and Evaluation
-
-## Contact
+Python · SQL · Pandas · NumPy · PyTorch · Scikit-learn · Hugging Face Transformers · FAISS · LLMs · Computer Vision · FastAPI · Streamlit · PostgreSQL · SQLite · Docker · Git · GitHub Actions · pytest
 
 [LinkedIn](https://www.linkedin.com/in/vidit-choudhary-514a98227/) · [Email](mailto:choudharyvidit5@gmail.com)
