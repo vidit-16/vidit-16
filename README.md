@@ -1,5 +1,3 @@
-## About
-
 i've built systems that make documents searchable and answerable, engineer guardrails around llm-driven financial decisions, trace business metrics back to their drivers, make algorithms compete using information theory, and turn everyday food descriptions into structured nutrition data.
 
 somewhere along the way, i've worked across ai, machine learning, genai, computer vision and data.
