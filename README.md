@@ -1,6 +1,6 @@
 ## About
 
-i've built systems that make documents searchable and answerable, engineer guardrails around llm-driven financial decisions, make algorithms compete using information theory, and turn everyday food descriptions into structured nutrition data.
+i've built systems that make documents searchable and answerable, engineer guardrails around llm-driven financial decisions, trace business metrics back to their drivers, make algorithms compete using information theory, and turn everyday food descriptions into structured nutrition data.
 
 somewhere along the way, i've worked across ai, machine learning, genai, computer vision and data.
 
@@ -15,7 +15,7 @@ either way, i'm usually building something.
 ## Projects
 
 ### RootSignal
-[Root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal). traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals.
+[Root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal). traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, reports confidence against named criteria, and produces evidence-backed investigation signals.
 
 ### BaseDrift
 [A pre-authorization decision layer for outbound payments](https://github.com/vidit-16/BaseDrift). combines deterministic policy rules with an LLM semantic layer, with a focus on authorization provenance, fail-safe handling, auditability, and adversarial testing.
