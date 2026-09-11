@@ -15,7 +15,7 @@ either way, i'm usually building something.
 ## Projects
 
 ### RootSignal
-[Root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal). traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, reports confidence against named criteria, and produces evidence-backed investigation signals.
+[Root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal). traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals.
 
 ### BaseDrift
 [A pre-authorization decision layer for outbound payments](https://github.com/vidit-16/BaseDrift). combines deterministic policy rules with an LLM semantic layer, with a focus on authorization provenance, fail-safe handling, auditability, and adversarial testing.
@@ -31,6 +31,19 @@ either way, i'm usually building something.
 
 ## Tools
 
-Python · SQL · Pandas · NumPy · PyTorch · Scikit-learn · Hugging Face Transformers · FAISS · LLMs · Computer Vision · FastAPI · Streamlit · PostgreSQL · SQLite · Docker · Git · GitHub Actions · pytest
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="40" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="40" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" height="40" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" />
+</p>
+
+Python · SQL · Pandas · NumPy · Hugging Face Transformers · FAISS · LLMs · Computer Vision · Streamlit · pytest
 
 [LinkedIn](https://www.linkedin.com/in/vidit-choudhary-514a98227/) · [Email](mailto:choudharyvidit5@gmail.com)
