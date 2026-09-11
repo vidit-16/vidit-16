@@ -21,13 +21,13 @@ either way, i'm usually building something.
 [A pre-authorization decision layer for outbound payments](https://github.com/vidit-16/BaseDrift). combines deterministic policy rules with an LLM semantic layer, with a focus on authorization provenance, fail-safe handling, auditability, and adversarial testing.
 
 ### Wordle Solver
-[Constraint vs entropy optimization](https://github.com/vidit-16/WordleSolver), built around Wordle-accurate feedback handling, candidate reduction, and information-gain scoring.
+[Constraint vs entropy optimization](https://github.com/vidit-16/WordleSolver). built around Wordle-accurate feedback handling, candidate reduction, and information-gain scoring.
 
 ### Food Vision
-[A ResNet-50 image classification API](https://github.com/vidit-16/foodVision), exposed through FastAPI and packaged with Docker for reproducible deployment.
+[A ResNet-50 image classification API](https://github.com/vidit-16/foodVision). exposed through FastAPI and packaged with Docker for reproducible deployment.
 
 ### DesiMacros
-[A conversational nutrition tracker for Indian diets](https://github.com/vidit-16/DesiMacros), turning free-form meal descriptions into structured food entries and combining nutrition lookup with rule-based insights.
+[A conversational nutrition tracker for Indian diets](https://github.com/vidit-16/DesiMacros). turning free-form meal descriptions into structured food entries and combining nutrition lookup with rule-based insights.
 
 ## Tools
 
