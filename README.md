@@ -12,6 +12,8 @@ sometimes it means wondering if there's a completely different way to do it.
 
 either way, i'm usually building something.
 
+**try them live:** [DocEngine](https://doc--engine.streamlit.app/) · [Wordle Solver](https://wordle--solver.streamlit.app/) · [DesiMacros](https://desimacros.onrender.com/)
+
 ## Projects
 
 ### RootSignal
@@ -24,19 +26,25 @@ either way, i'm usually building something.
 [an affordability engine for financial requests](https://github.com/vidit-16/PayFloor) decides whether to pay now, in parts, in instalments, later, or not at all. the model only extracts facts; deterministic code makes the call and guarantees the balance never drops below the user's minimum over 90 days
 
 ### DocEngine
-[question answering over PDFs](https://github.com/vidit-16/DocEngine) with page-cited sources, comparing semantic, BM25 and hybrid retrieval on a labelled question set before picking a default
+[question answering over PDFs](https://github.com/vidit-16/DocEngine) with page-cited sources, comparing semantic, BM25 and hybrid retrieval on a labelled question set before picking a default. 86.8% of answers correct on a held-out test set, up from 75.0% · [live](https://doc--engine.streamlit.app/)
 
 ### DesiMacros
-[a conversational nutrition tracker for Indian diets](https://github.com/vidit-16/DesiMacros) turns free-form meal descriptions into structured food entries and combines nutrition lookup with rule-based insights
+[a conversational nutrition tracker for Indian diets](https://github.com/vidit-16/DesiMacros) turns free-form meal descriptions into structured food entries and combines nutrition lookup with rule-based insights. median calorie error cut from 50.0% to 14.8% against usda reference meals, and no food is logged as zero calories any more · [live](https://desimacros.onrender.com/)
 
 ### Wordle Solver
-[constraint vs entropy optimization](https://github.com/vidit-16/WordleSolver) built around Wordle-accurate feedback handling, candidate reduction, and information-gain scoring, benchmarked on all 2,315 official answers
+[constraint vs entropy optimization](https://github.com/vidit-16/WordleSolver) built around Wordle-accurate feedback handling, candidate reduction, and information-gain scoring. benchmarked on all 2,315 official answers: the hybrid solver wins 99.78% of games in 3.68 guesses on average · [live](https://wordle--solver.streamlit.app/)
 
 ### Food Vision
 [a ConvNeXt-Tiny food classifier](https://github.com/vidit-16/foodVision) fine-tuned on Food-101 (91.9% top-1, up from 82.2% with ResNet-50), served through FastAPI and packaged with Docker
 
 ## Tools
 
-Python · SQL · Pandas · NumPy · PyTorch · timm · Scikit-learn · Hugging Face Transformers · sentence-transformers · FAISS · LLMs · Computer Vision · FastAPI · Streamlit · PostgreSQL · SQLite · Docker · Git · GitHub Actions · pytest
+**languages and data** Python · SQL · Pandas · NumPy · PostgreSQL · SQLite
+
+**machine learning** PyTorch · timm · Scikit-learn · Hugging Face Transformers · sentence-transformers · FAISS · Computer Vision
+
+**llm systems** OpenAI · Groq · retrieval-augmented generation · evaluation and benchmarking
+
+**serving and ops** FastAPI · Streamlit · Docker · Git · GitHub Actions · pytest
 
 [LinkedIn](https://www.linkedin.com/in/vidit-choudhary-514a98227/) · [Email](mailto:choudharyvidit5@gmail.com)
