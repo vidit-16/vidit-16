@@ -1,6 +1,6 @@
 ## About
 
-i've built systems that make documents searchable and answerable, engineer guardrails around llm-driven financial decisions, and trace business metrics back to their drivers.
+i've built systems that engineer guardrails around llm-driven financial decisions, trace business metrics back to their drivers, and make documents searchable and answerable.
 
 somewhere along the way, i've worked across ai, machine learning, genai, computer vision and data.
 
