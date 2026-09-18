@@ -17,7 +17,7 @@ either way, i'm usually building something.
 ## Projects
 
 ### RootSignal
-[root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal) traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals. the same pipeline runs unchanged on 1M+ real invoice lines from a uk retailer, which broke three things generated data never could
+[root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal) traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals. the same pipeline runs unchanged on 1M+ real invoice lines from a uk retailer, which broke three things generated data never could, and the same forecast model wins on both — beating a naive baseline by 38.8% on the real data
 
 ### BaseDrift
 [a pre-authorization decision layer for outbound payments](https://github.com/vidit-16/BaseDrift) combines deterministic policy rules with an LLM semantic layer, with a focus on authorization provenance, fail-safe handling, auditability, and adversarial testing. every one of the 15 mutations of its stated invariants is caught by the suite, so the rules cannot be quietly weakened
