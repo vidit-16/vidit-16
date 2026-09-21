@@ -47,4 +47,4 @@ either way, i'm usually building something.
 
 **serving and ops** FastAPI · Streamlit · Docker · Git · GitHub Actions · pytest
 
-[LinkedIn](https://www.linkedin.com/in/vidit-choudhary) · [HackerRank](https://www.hackerrank.com/vidit-16) · [Email](mailto:choudharyvidit5@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vidit-choudhary) · [HackerRank](https://www.hackerrank.com/choudharyvidit5) · [Email](mailto:choudharyvidit5@gmail.com)
