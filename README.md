@@ -43,7 +43,7 @@ either way, i'm usually building something.
 
 **machine learning** PyTorch · timm · Scikit-learn · Hugging Face Transformers · sentence-transformers · FAISS · Computer Vision
 
-**llm systems** OpenAI · Groq · retrieval-augmented generation · evaluation and benchmarking
+**llm systems** OpenAI · Groq · RAG · evaluation and benchmarking
 
 **cloud** AWS (S3 · Redshift · Glue · EMR)
 
