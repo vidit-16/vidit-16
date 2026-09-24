@@ -12,7 +12,7 @@ sometimes it means wondering if there's a completely different way to do it.
 
 either way, i'm usually building something.
 
-**try them live:** [DocEngine](https://doc--engine.streamlit.app/) · [Wordle Solver](https://wordle--solver.streamlit.app/) · [DesiMacros](https://desimacros.onrender.com/)
+**try them live:** [DocEngine](https://doc--engine.streamlit.app/) · [Wordle Solver](https://wordle--solver.streamlit.app/) · [DesiMacros](https://desimacros.onrender.com/) · [ClassFind](http://classfind-prod.eba-ttyqcasp.ap-south-1.elasticbeanstalk.com/)
 
 ## Projects
 
@@ -31,6 +31,9 @@ either way, i'm usually building something.
 ### DesiMacros
 [a conversational nutrition tracker for Indian diets](https://github.com/vidit-16/DesiMacros) turns free-form meal descriptions into structured food entries, with dish values cross-checked against two published references. median calorie error cut from 50.0% to 14.8%, and a food the databases do not know is now estimated and labelled rather than silently counted as zero · [live](https://desimacros.onrender.com/)
 
+### ClassFind
+[a campus lost-and-found board](https://github.com/vidit-16/ClassFind) where students report what they lost or found, search, and claim items, with each lost report scored against found ones and the reasons for every match shown. flask and sqlalchemy on elastic beanstalk, postgres on rds, and images in s3 behind presigned urls. reworking the matching took a 600-by-600 comparison from 31.3s to 19.1s with identical results · [live](http://classfind-prod.eba-ttyqcasp.ap-south-1.elasticbeanstalk.com/)
+
 ### Food Vision
 [a ConvNeXt-Tiny food classifier](https://github.com/vidit-16/foodVision) fine-tuned on Food-101, served through FastAPI and packaged with Docker. changing the backbone and the training recipe took top-1 accuracy from 82.2% to 91.9% on the official test split
 
@@ -45,8 +48,8 @@ either way, i'm usually building something.
 
 **llm systems** OpenAI · Groq · RAG · evaluation and benchmarking
 
-**cloud** AWS (S3 · Redshift · Glue · EMR)
+**cloud** AWS (S3 · Redshift · RDS · Elastic Beanstalk · Glue · EMR)
 
-**serving and ops** FastAPI · Streamlit · Docker · Git · GitHub Actions · pytest
+**serving and ops** FastAPI · Flask · SQLAlchemy · Streamlit · Docker · Git · GitHub Actions · pytest
 
 [LinkedIn](https://www.linkedin.com/in/vidit-choudhary) · [HackerRank](https://www.hackerrank.com/choudharyvidit5) · [Email](mailto:choudharyvidit5@gmail.com)
