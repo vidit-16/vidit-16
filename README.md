@@ -20,7 +20,7 @@ either way, i'm usually building something.
 [a pre-authorization decision layer for outbound payments](https://github.com/vidit-16/BaseDrift) combines deterministic policy rules with an LLM semantic layer, with a focus on authorization provenance, fail-safe handling, auditability, and adversarial testing. every one of the 15 mutations of its stated invariants is caught by the suite, so the rules cannot be quietly weakened
 
 ### RootSignal
-[root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal) traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals. the same pipeline runs unchanged on 1M+ real invoice lines from a uk retailer, which broke three things generated data never could, and the same forecast model wins on both — beating a naive baseline by 38.8% on the real data
+[root-cause analytics for sales and supply operations](https://github.com/vidit-16/RootSignal) traces metric movements to the segments behind them, separates performance changes from mix effects, estimates business impact, and produces evidence-backed investigation signals. the same pipeline runs unchanged on 1M+ real invoice lines from a uk retailer, which broke three things generated data never could, and the same forecast model wins on both — beating a naive baseline by 38.8% on the real data. that data now moves from s3 through a pyspark job into postgresql and redshift, with spark's output matching the pandas version on every one of the million rows, a power bi report on top, and the spark job ready for aws glue and emr
 
 ### PayFloor
 [an affordability engine for financial requests](https://github.com/vidit-16/PayFloor) decides whether to pay now, in parts, in instalments, later, or not at all. the model only extracts facts; deterministic code makes the call and guarantees the balance never drops below the user's minimum over 90 days
@@ -39,11 +39,13 @@ either way, i'm usually building something.
 
 ## Tools
 
-**languages and data** Python · SQL · Pandas · NumPy · PostgreSQL · SQLite
+**languages and data** Python · SQL · Pandas · NumPy · PySpark · PostgreSQL · SQLite · Power BI
 
 **machine learning** PyTorch · timm · Scikit-learn · Hugging Face Transformers · sentence-transformers · FAISS · Computer Vision
 
 **llm systems** OpenAI · Groq · retrieval-augmented generation · evaluation and benchmarking
+
+**cloud** AWS (S3 · Redshift · Glue · EMR)
 
 **serving and ops** FastAPI · Streamlit · Docker · Git · GitHub Actions · pytest
 
